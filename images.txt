@@ -1,1 +1,1 @@
-jellyfin/jellyfin:2026071308
+deluan/navidrome:pr-5730
