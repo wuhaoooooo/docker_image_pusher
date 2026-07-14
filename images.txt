@@ -1,1 +1,1 @@
-deluan/navidrome:pr-5730
+docker pull ponphil/litepan:latest
