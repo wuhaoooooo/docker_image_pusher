@@ -1,1 +1,1 @@
-docker pull ponphil/litepan:latest
+ponphil/litepan:latest
