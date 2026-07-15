@@ -1,1 +1,1 @@
-ghcr.io/mtvpls/moontvplus:latest
+apache/kvrocks
