@@ -1,1 +1,1 @@
-ghcr.io/moontechlab/lunatv:latest
+ghcr.io/mtvpls/moontvplus:latest
