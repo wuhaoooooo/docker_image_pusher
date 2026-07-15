@@ -1,1 +1,1 @@
-bestzwei/libretv:202508060117
+ghcr.io/moontechlab/lunatv:latest
