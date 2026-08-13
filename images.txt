@@ -1,1 +1,1 @@
-apache/kvrocks
+ gloridust/gancook:latest
