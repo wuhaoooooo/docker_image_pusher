@@ -1,1 +1,1 @@
- gloridust/gancook:latest
+haroldli/xiaoya-tvbox:latest
