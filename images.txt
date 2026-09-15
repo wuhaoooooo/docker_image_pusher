@@ -1,1 +1,1 @@
-haroldli/xiaoya-tvbox:latest
+dezhao/lanraragi_cn:latest
