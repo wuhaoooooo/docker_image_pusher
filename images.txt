@@ -1,1 +1,1 @@
-dezhao/lanraragi_cn:latest
+jellyfin/jellyfin:latest
